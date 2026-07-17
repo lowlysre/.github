@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source srcset="https://lowlysre.github.io/assets/svg/logo-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://lowlysre.github.io/assets/svg/logo-light.svg" alt="lowlysre" width="180">
+  <source srcset="https://lowlysre.github.io/assets/svg/logo-dark.svg?v=2" media="(prefers-color-scheme: dark)">
+  <img src="https://lowlysre.github.io/assets/svg/logo-light.svg?v=2" alt="lowlysre" width="180">
 </picture>
 
 # lowlysre
