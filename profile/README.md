@@ -18,6 +18,7 @@ This org is just one person, so it carries an ethos, not just packages: build sy
 ## Highlights
 
 - 🏥 [**icd-10-cm**](https://github.com/lowlysre/icd-10-cm) - ICD-10-CM clinical modification data as an npm package, zero dependencies ([`@lowlysre/icd-10-cm`](https://www.npmjs.com/package/@lowlysre/icd-10-cm))
+- 🏎️ [**cron-drift**](https://github.com/lowlysre/cron-drift) - measures GitHub workflow cron drift, with a [live Grafana dashboard](https://lowlysre.grafana.net/public-dashboards/66e12b0c83214d88ab4040521de1e874)
 - 📊 [**grafana-dashboards**](https://github.com/lowlysre/grafana-dashboards) - Grafana dashboards geared towards site reliability engineering
 - 🗡️ [**itsdangerous**](https://github.com/lowlysre/itsdangerous) - it's dangerous to go alone!
 
