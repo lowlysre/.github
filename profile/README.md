@@ -11,9 +11,9 @@
 
 </div>
 
-The open source home of [@lowlydba](https://github.com/lowlydba) - a career evolution, one inch at a time. 🐛
+Systems that do not implode, built one inch at a time. 🐛
 
-This org is just one person, so it carries an ethos, not just packages: build systems that do not implode, and value **humility, clarity, and evidence** over hierarchy, ego, and process for its own sake. Software and data should be inclusive and open to all people, regardless of ability or background.
+We value **humility, clarity, and evidence** over hierarchy, ego, and process for its own sake. Software and data should be inclusive and open to all people, regardless of ability or background.
 
 ## Highlights
 
@@ -28,4 +28,3 @@ Browse everything at [lowlysre.github.io](https://lowlysre.github.io) 🌐
 
 - ✍️ [lowlysre.substack.com](https://lowlysre.substack.com/) - writing on the invisible forces in tech
 - 🎨 [Brand assets](https://lowlysre.github.io/brand/)
-- 🧑‍💻 [@lowlydba](https://github.com/lowlydba) - where it all started
