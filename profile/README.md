@@ -28,3 +28,4 @@ Browse everything at [lowlysre.github.io](https://lowlysre.github.io) 🌐
 
 - ✍️ [lowlysre.substack.com](https://lowlysre.substack.com/) - writing on the invisible forces in tech
 - 🎨 [Brand assets](https://lowlysre.github.io/brand/)
+- 🌱 [@lowlydba](https://github.com/lowlydba) - our roots
