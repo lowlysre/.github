@@ -21,6 +21,8 @@ We value **humility, clarity, and evidence** over hierarchy, ego, and process fo
 - 🏎️ [**cron-drift**](https://github.com/lowlysre/cron-drift) - measures GitHub workflow cron drift, with a [live Grafana dashboard](https://lowlysre.grafana.net/public-dashboards/66e12b0c83214d88ab4040521de1e874)
 - 📊 [**grafana-dashboards**](https://github.com/lowlysre/grafana-dashboards) - Grafana dashboards geared towards site reliability engineering
 - 🗡️ [**itsdangerous**](https://github.com/lowlysre/itsdangerous) - it's dangerous to go alone!
+- 📝 [**open-fieldnotes**](https://github.com/lowlysre/open-fieldnotes) - turns GitHub Discussions into a static RFD (Request for Discussion) site using Astro
+- 📅 [**cron-holiday**](https://github.com/lowlysre/cron-holiday) - GitHub Action to skip scheduled workflows on holidays ([Marketplace](https://github.com/marketplace/actions/cron-holiday))
 
 Browse everything at [lowlysre.github.io](https://lowlysre.github.io) 🌐
 
