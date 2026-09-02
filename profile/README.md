@@ -23,6 +23,7 @@ We value **humility, clarity, and evidence** over hierarchy, ego, and process fo
 - 🗡️ [**itsdangerous**](https://github.com/lowlysre/itsdangerous) - it's dangerous to go alone!
 - 📝 [**open-fieldnotes**](https://github.com/lowlysre/open-fieldnotes) - turns GitHub Discussions into a static RFD (Request for Discussion) site using Astro
 - 📅 [**cron-holiday**](https://github.com/lowlysre/cron-holiday) - GitHub Action to skip scheduled workflows on holidays ([Marketplace](https://github.com/marketplace/actions/cron-holiday))
+- 🏠 [**ha-backup-resilio**](https://github.com/lowlysre/ha-backup-resilio) - Home Assistant add-on for backing up to Resilio Sync
 
 Browse everything at [lowlysre.github.io](https://lowlysre.github.io) 🌐
 
