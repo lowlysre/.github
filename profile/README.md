@@ -26,6 +26,7 @@ We value **humility, clarity, and evidence** over hierarchy, ego, and process fo
 - 🏠 [**ha-backup-resilio**](https://github.com/lowlysre/ha-backup-resilio) - Home Assistant add-on for backing up to Resilio Sync
 - 🅰️[**config-ansible-remote-action**](https://github.com/lowlysre/config-ansible-remote-action) - IYKYK
 - 🖋️[**lowly-writing-framework**](https://github.com/lowlysre/lowly-writing-framework) / [**lowly-writing-framework-plugin**](https://github.com/lowlysre/lowly-writing-framework-plugin) - An emergent composition framework skill + plugin for writing practical issues, PRs, comments, and more
+- 🥾🐛[Yeet Yeerk Skill](https://github.com/lowlysre/yeet-yeerk-skill)
 
 Browse everything at [lowlysre.github.io](https://lowlysre.github.io) 🌐
 
