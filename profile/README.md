@@ -28,6 +28,7 @@ We value **humility, clarity, and evidence** over hierarchy, ego, and process fo
 - 🖋️[**lowly-writing-framework**](https://github.com/lowlysre/lowly-writing-framework) / [**lowly-writing-framework-plugin**](https://github.com/lowlysre/lowly-writing-framework-plugin) - An emergent composition framework skill + plugin for writing practical issues, PRs, comments, and more
 - 🥾🐛[Yeet Yeerk Skill](https://github.com/lowlysre/yeet-yeerk-skill)
 - 🧰 [**setup-filemoverexpress**](https://github.com/lowlysre/setup-filemoverexpress) - GitHub Action to set up a verified AWS File Mover Express CLI, configured to work with aws-actions/configure-aws-credentials
+- 🌬️ [**mwaa-get-env-action**](https://github.com/lowlysre/mwaa-get-env-action) / [**mwaa-update-env-action**](https://github.com/lowlysre/mwaa-update-env-action) - GitHub Actions to read an Amazon MWAA environment's status and outputs, or update it and wait until it's available again
 
 Browse everything at [lowlysre.github.io](https://lowlysre.github.io) 🌐
 
