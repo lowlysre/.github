@@ -15,6 +15,10 @@ Systems that do not implode, built one inch at a time. 🐛
 
 We value **humility, clarity, and evidence** over hierarchy, ego, and process for its own sake. Software and data should be inclusive and open to all people, regardless of ability or background.
 
+## Start here
+
+📜 [**The Lowly Manifesto**](https://lowlysre.github.io/manifesto/) ([source](https://github.com/lowlysre/manifesto)) - what we believe about building software and what we resolve to do about it. It defines how and why we build everything below.
+
 ## Highlights
 
 - 🏥 [**icd-10-cm**](https://github.com/lowlysre/icd-10-cm) - ICD-10-CM clinical modification data as an npm package, zero dependencies ([`@lowlysre/icd-10-cm`](https://www.npmjs.com/package/@lowlysre/icd-10-cm))
@@ -23,6 +27,7 @@ We value **humility, clarity, and evidence** over hierarchy, ego, and process fo
 - 🗡️ [**itsdangerous**](https://github.com/lowlysre/itsdangerous) - it's dangerous to go alone!
 - 📝 [**open-fieldnotes**](https://github.com/lowlysre/open-fieldnotes) - turns GitHub Discussions into a static RFD (Request for Discussion) site using Astro
 - 📅 [**cron-holiday**](https://github.com/lowlysre/cron-holiday) - GitHub Action to skip scheduled workflows on holidays ([Marketplace](https://github.com/marketplace/actions/cron-holiday))
+- 💬 [**psr-success-comment**](https://github.com/lowlysre/psr-success-comment) - GitHub Action that adds success comments to Python Semantic Release releases, like core Semantic Release does ([Marketplace](https://github.com/marketplace/actions/psr-success-comment))
 - 🏠 [**ha-backup-resilio**](https://github.com/lowlysre/ha-backup-resilio) - Home Assistant add-on for backing up to Resilio Sync
 - 🅰️[**config-ansible-remote-action**](https://github.com/lowlysre/config-ansible-remote-action) - IYKYK
 - 🖋️[**lowly-writing-framework**](https://github.com/lowlysre/lowly-writing-framework) / [**lowly-writing-framework-plugin**](https://github.com/lowlysre/lowly-writing-framework-plugin) - An emergent composition framework skill + plugin for writing practical issues, PRs, comments, and more
