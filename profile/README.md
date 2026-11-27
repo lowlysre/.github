@@ -23,15 +23,12 @@ We value **humility, clarity, and evidence** over hierarchy, ego, and process fo
 
 - 🏥 [**icd-10-cm**](https://github.com/lowlysre/icd-10-cm) - ICD-10-CM clinical modification data as an npm package, zero dependencies ([`@lowlysre/icd-10-cm`](https://www.npmjs.com/package/@lowlysre/icd-10-cm))
 - 🏎️ [**cron-drift**](https://github.com/lowlysre/cron-drift) - measures GitHub workflow cron drift, with a [live Grafana dashboard](https://lowlysre.grafana.net/public-dashboards/66e12b0c83214d88ab4040521de1e874)
-- 📊 [**grafana-dashboards**](https://github.com/lowlysre/grafana-dashboards) - Grafana dashboards geared towards site reliability engineering
-- 🗡️ [**itsdangerous**](https://github.com/lowlysre/itsdangerous) - it's dangerous to go alone!
 - 📝 [**open-fieldnotes**](https://github.com/lowlysre/open-fieldnotes) - turns GitHub Discussions into a static RFD (Request for Discussion) site using Astro
 - 📅 [**cron-holiday**](https://github.com/lowlysre/cron-holiday) - GitHub Action to skip scheduled workflows on holidays ([Marketplace](https://github.com/marketplace/actions/cron-holiday))
 - 💬 [**psr-success-comment**](https://github.com/lowlysre/psr-success-comment) - GitHub Action that adds success comments to Python Semantic Release releases, like core Semantic Release does ([Marketplace](https://github.com/marketplace/actions/psr-success-comment))
 - 🏠 [**ha-backup-resilio**](https://github.com/lowlysre/ha-backup-resilio) - Home Assistant add-on for backing up to Resilio Sync
 - 🅰️[**config-ansible-remote-action**](https://github.com/lowlysre/config-ansible-remote-action) - IYKYK
 - 🖋️[**lowly-writing-framework**](https://github.com/lowlysre/lowly-writing-framework) / [**lowly-writing-framework-plugin**](https://github.com/lowlysre/lowly-writing-framework-plugin) - An emergent composition framework skill + plugin for writing practical issues, PRs, comments, and more
-- 🥾🐛[Yeet Yeerk Skill](https://github.com/lowlysre/yeet-yeerk-skill)
 - 🧰 [**setup-filemoverexpress**](https://github.com/lowlysre/setup-filemoverexpress) - GitHub Action to set up a verified AWS File Mover Express CLI, configured to work with aws-actions/configure-aws-credentials
 - 🌬️ [**mwaa-get-env-action**](https://github.com/lowlysre/mwaa-get-env-action) / [**mwaa-update-env-action**](https://github.com/lowlysre/mwaa-update-env-action) - GitHub Actions to read an Amazon MWAA environment's status and outputs, or update it and wait until it's available again
 
